@@ -10,5 +10,5 @@ Skills: Laravel / Golang / NodeJS / Vue / Docker / Vuetify / Quasar / Vuex / RES
 - ⚡ Fun fact: Pakistan ranks in the top 5 large market places. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NaveedZahoorKhan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/naveed-zahoor-b43b54183/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NaveedZahoorKhan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/naveed-zahoor)  
 
