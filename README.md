@@ -2,7 +2,7 @@
 #### Laravel Full Stack Developer
 Laravel, VueJS developer from Pakistan with 5+ years of experience in writing clean, maintainable, and secure code.
 
-Skills: Laravel / Vue / Docker / Vuetify / Quasar / Vuex / REST API / Git /  Envoy / Unit Test
+Skills: Laravel / Golang / NodeJS / Vue / Docker / Vuetify / Quasar / Vuex / REST API / Git /  Envoy / Unit Test
 
 - 🔭 I’m currently working on Cypheme 
 - 🌱 I’m currently learning Typescript 
